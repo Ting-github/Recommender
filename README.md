@@ -1,2 +1,2 @@
 # Recommender
-This is a simple song recommender system
+This is a song recommender system based on popularity model.
